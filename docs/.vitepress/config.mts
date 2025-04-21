@@ -27,7 +27,7 @@ export default defineConfig({
     ],
     outline: [2,5],
     editLink: {
-      pattern: 'https://github.com/revtutorials/The-New-Democratic-Revolution/edit/main/docs/:path',
+      pattern: 'https://github.com/revtutorials/The-New-Democratic-Revolution/edit/pages/docs/:path',
       text: '在 Github 上编辑此页面'
     },
     socialLinks: [
