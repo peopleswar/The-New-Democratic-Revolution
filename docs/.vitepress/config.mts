@@ -23,7 +23,8 @@ export default defineConfig({
           { text: 'IV- The law of maximum profit and the principal contradiction in the imperialist epoch', link: '/en/4-profit' },
           { text: 'V- Unite under Maoism!', link: '/en/5-unite' },
           { text: 'References', link: '/en/6-references' }
-        ],
+        ]
+      },{
         text: '中文译本（施工中）/Chinese Translation (Under construction)',
         items: [
           { text: '目录', link: '/zh/0-summary' },
@@ -33,7 +34,7 @@ export default defineConfig({
           { text: '四 利润最大化的法则和帝国主义时代的主要矛盾', link: '/zh/4-profit' },
           { text: '五 团结在毛主义的旗帜下！', link: '/zh/5-unite' },
           { text: '参考文献', link: '/zh/6-references' },
-        ]
+          ]
       }
     ],
     outline: [2,5],
