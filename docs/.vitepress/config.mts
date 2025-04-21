@@ -22,9 +22,9 @@ export default defineConfig({
           { text: 'III- Imperialism and Democratic Revolution', link: '/en/3-imperialism' },
           { text: 'IV- The law of maximum profit and the principal contradiction in the imperialist epoch', link: '/en/4-profit' },
           { text: 'V- Unite under Maoism!', link: '/en/5-unite' },
-          { text: 'References', link: '/en/6-references' },
-        text: '中文译本（施工中）/Chinese Translation (Under construction)',
+          { text: 'References', link: '/en/6-references' }
         ]
+        text: '中文译本（施工中）/Chinese Translation (Under construction)',
         items: [
           { text: '目录', link: '/zh/0-summary' },
           { text: '一 引言', link: '/zh/1-introduction' },
