@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '查看英文译本', link: '/en/0-summary' }
+      { text: '查看英文译本', link: '/en/0-summary' },
       { text: '查看中文译本（施工中）', link: '/zh/0-summary' }
     ],
     sidebar: [
