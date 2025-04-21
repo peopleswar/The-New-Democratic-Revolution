@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 查看英文译本
       link: /en/0-summary
+    - theme: brand
+      text: 查看中文译本
+      link: /zh/0-summary
     - theme: alt
       text: 翻译中文译本
       link: https://github.com/revtutorials/The-New-Democratic-Revolution
