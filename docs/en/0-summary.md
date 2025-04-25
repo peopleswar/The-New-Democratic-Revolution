@@ -46,9 +46,8 @@ V- Unite under Maoism!
 
 4- Two camps were delineated, the demarcation line is the validity of the New Democratic Revolution for the immense majority of the countries and the immense majority of the population of Earth
 
+---
 
 **Communist Party of Brazil – P.C.B.**
 
 Central Committee
-
-

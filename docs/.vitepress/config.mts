@@ -9,12 +9,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '查看英文译本', link: '/en/0-summary' },
-      { text: '查看中文译本（施工中）', link: '/zh/0-summary' }
+      { text: 'English', link: '/en/' },
+      { text: 'français', link: '/fr/' },
+      { text: '查看中文译本（施工中）', link: '/zh/0-summary' },
+      { text: '查看法文译本（施工中）', link: '/fr/0-summary' }
     ],
     sidebar: [
       {
         text: '英文译本/English Translation',
+        collapsed: false,
         items: [
           { text: 'Summary', link: '/en/0-summary' },
           { text: 'I- Introduction', link: '/en/1-introduction' },
@@ -26,6 +29,7 @@ export default defineConfig({
         ]
       },{
         text: '中文译本（施工中）/Chinese Translation (Under construction)',
+        collapsed: true,
         items: [
           { text: '目录', link: '/zh/0-summary' },
           { text: '一 引言', link: '/zh/1-introduction' },
@@ -34,6 +38,18 @@ export default defineConfig({
           { text: '四 利润最大化的法则和帝国主义时代的主要矛盾', link: '/zh/4-profit' },
           { text: '五 团结在毛主义的旗帜下！', link: '/zh/5-unite' },
           { text: '参考文献', link: '/zh/6-references' },
+        ]
+      },{
+        text: '法文译本（施工中）/Traduction française (en cours de construction)',
+        collapsed: true,
+        items: [
+          { text: 'Résumé', link: '/fr/0-summary' },
+          { text: 'I- Introduction', link: '/fr/1-introduction' },
+          { text: 'II– La loi de la contradiction : seule loi fondamentale de la dialectique matérialiste', link: '/fr/2-law' },
+          { text: 'III- L’impérialisme et la révolution démocratique', link: '/fr/3-imperialism' },
+          { text: 'IV- La loi du profit maximum et la principale contradiction à l’époque impérialiste', link: '/fr/4-profit' },
+          { text: 'V- Unissez-vous sous le maoïsme!', link: '/fr/5-unite' },
+          { text: 'Références', link: '/fr/6-references' },
           ]
       }
     ],
