@@ -4,7 +4,7 @@ Sous la direction du mouvement révolutionnaire prolétarien actuel dans le mond
 
 La Révolution de Nouvelle Démocratie est la force principale de la Révolution prolétarienne mondiale
 
-# Summary:
+# Sommaire:
 
 I- Introduction
 
